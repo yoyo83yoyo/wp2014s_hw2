@@ -8,25 +8,29 @@
 article{
   padding:2em 0em 0em 3em;
   background: rgb(200, 200, 190);
-  background-repeat: repeat-x;  }
+  background-repeat: repeat-x;  
+  
+}
 
 body{
-  background: rgb(250, 250, 250);  
+  background: rgb(240, 240, 240);  
   background-attachment: fixed;
   background-repeat: repeat-x;  
 }
 
 section{
   padding:2em 0em 0em 1em;
-  background-image:url(http://0.tqn.com/d/webclipart/1/0/l/q/4/green-sponged-background.png);
+  background-image:url(http://www.vijayaba.sch.lk/gallery/imagevue/themes/gardener/background.jpg);
 background-attachment: fixed;
   background-repeat: no-repeat; }
 
 h1{
+
   font-family:'微軟正黑體',sans-serif;
   text-decoration: none;
   font-size: 4em;
   color: rgb(100, 25, 25);
+
 }
 
 h3{
@@ -74,7 +78,7 @@ h3{
 }
 .skill li{
   font-family:'微軟正黑體',sans-serif;
-  font-size: 1em;
+  font-size: 0.8em;
   color: rgb(00, 00, 50);
   display:block;
 }
