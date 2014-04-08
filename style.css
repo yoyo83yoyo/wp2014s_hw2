@@ -17,11 +17,12 @@ article{
   display: inline-block;
   font-family:'微軟正黑體',sans-serif;
  
-  font-size: 1.5em;
+  
 }
 
 .list a{
    text-decoration: none;
+   font-size: 0.8em;
 }
 
 body{
